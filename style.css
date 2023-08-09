@@ -5,7 +5,9 @@ body {
 #random_line {
     padding: 10px;
     font-size: large;
+    
 }
+
 
 #generate { 
   background-image: linear-gradient(#0009AB, #0009AB);
